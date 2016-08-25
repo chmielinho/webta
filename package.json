@@ -1,0 +1,31 @@
+{
+  "name": "webta",
+  "version": "0.0.1",
+  "description": "New site made for WEBTA Tomasz Bejm",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-sass": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chmielinho/webta.git"
+  },
+  "keywords": [
+    "WEBTA",
+    "site"
+  ],
+  "author": "Mateusz Chmielarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chmielinho/webta/issues"
+  },
+  "homepage": "https://github.com/chmielinho/webta#readme"
+}
